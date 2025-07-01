@@ -26,7 +26,7 @@ The provided data consists of three parts:
 - **Architecture**: CRNN (CNN + BiLSTM + CTC Loss)
 - **Input**: (50x200x1) grayscale image
 - **Output**: Decoded alphanumeric string
-- **Training File**: `ocr_train.py`
+- **Training File**: `main.py`
 
 ---
 
